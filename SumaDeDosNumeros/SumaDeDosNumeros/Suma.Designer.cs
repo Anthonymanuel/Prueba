@@ -88,7 +88,7 @@
             // 
             // SumarButton
             // 
-            this.SumarButton.Location = new System.Drawing.Point(146, 150);
+            this.SumarButton.Location = new System.Drawing.Point(121, 144);
             this.SumarButton.Name = "SumarButton";
             this.SumarButton.Size = new System.Drawing.Size(75, 23);
             this.SumarButton.TabIndex = 6;
